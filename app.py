@@ -1,2 +1,1 @@
-#comment
-print()
+print("Some string")
